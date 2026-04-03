@@ -1,4 +1,4 @@
-# real-estate-price-analytics
+# real-estate-analytics
 
 📌 Aim
 
